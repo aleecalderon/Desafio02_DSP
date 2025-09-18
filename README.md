@@ -189,6 +189,9 @@ El sistema incluye habitaciones predefinidas:
 - **[Alejandra Cristal Calderon Escobar CE231635]** - Desarrollo Full Stack
 - **[Gladis Del Carmen Rivas Miranda RM191684]** - Desarrollo Full Stack
 
+  **ENLACE DEL VIDEO**
+  https://drive.google.com/file/d/1FmB3SUQ0YjMcrVJ-B-5iesg8LjM8TyPL/view?usp=drivesdk
+
 
 ## Licencia
 
